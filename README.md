@@ -75,7 +75,7 @@ Example for 19 (Västmanlands län):
 
 The dataset comes from SCB’s official file:
 
-[Kommun- och länskoder](https://www.scb.se)
+[Kommun- och länskoder](https://www.scb.se/hitta-statistik/regional-statistik-och-kartor/regionala-indelningar/lan-och-kommuner/lan-och-kommuner-i-kodnummerordning/)
 
 
 It is updated whenever municipalities or counties change (rare, usually only at year boundaries).
